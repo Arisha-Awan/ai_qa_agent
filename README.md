@@ -28,6 +28,8 @@ cd ai-qa-agent
 
 #### Install Dependencies
 
+Add your API Key in app.py file on line #10
+
 ```sh
 cd backend
 ##Create a Virtual Environment
